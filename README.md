@@ -54,3 +54,8 @@ l is very larger than p. if block at line 4 of algorithm always runs for O(1) ti
               = O(l*|P|*p)
               = O(l)           { as l >>>|P|*p }
 The time complexity of this algorithm is the order of length of the input string.
+
+
+## Deployment
+
+![img](Screenshot 1.jpg)
