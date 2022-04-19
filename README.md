@@ -59,3 +59,4 @@ The time complexity of this algorithm is the order of length of the input string
 ## Deployment
 
 <img src="Screenshot 1.jpg"/>
+<img src="Screenshot 2.jpg"/>
