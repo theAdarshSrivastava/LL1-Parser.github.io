@@ -58,4 +58,4 @@ The time complexity of this algorithm is the order of length of the input string
 
 ## Deployment
 
-![img](Screenshot 1.jpg)
+![img]('Screenshot 1.jpg')
