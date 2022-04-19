@@ -15,10 +15,10 @@ Determines that given string can be produced by given grammar(parsing table) or 
 
 ## Steps:
 
-    1. while(stack is not empty) {
+     1. while(stack is not empty) {
 
        // initially it is S
-     A = top symbol of stack;  
+     2. A = top symbol of stack;  
 
        //initially it is first symbol in string, it can be $ also
      3.     r = next input symbol of given string; 
